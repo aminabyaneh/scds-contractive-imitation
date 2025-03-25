@@ -179,4 +179,3 @@ url={https://openreview.net/forum?id=lILEtkWOXD}}
 ```
 * Amin Abyaneh (corresponding author)
 * Mahrokh G. Boroujeni (corresponding author)
-* Hsiu-Chin
